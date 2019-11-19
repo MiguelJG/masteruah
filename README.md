@@ -13,3 +13,13 @@
 - *git status* Muestra el estado del repositorio local de git
 - *git commit -m <Mensaje>* Este comando genera un commit de git
 - *git push origin master* Sube los cambios al repositorio remoto en este caso a github
+
+**Compañeros de clase:**
+
+| Nombre | Github                         |
+|--------|--------------------------------|
+| Jaime  | https://github.com/Jaime95     |
+| Zeng   | https://github.com/zengyong96  |
+| Marta  | https://github.com/mcarricarte |
+
+
